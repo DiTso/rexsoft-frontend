@@ -91,13 +91,11 @@ JQuery Плагіни
 - [12 малоизвестных возможностей CSS](http://habrahabr.ru/post/220237/)
 - [CSS Blend Modes Browser Support Matrix](http://html.adobe.com/webplatform/graphics/blendmodes/browser-support/)
 
-CSS Shapes
-------
+### CSS Shapes
 - [Создание непрямоугольных макетов при помощи CSS-форм](http://frontender.info/css-shapes/)
 - [shapes-polyfill](https://github.com/adobe-webplatform/css-shapes-polyfill)
 
-Мікроформати і все таке…
-------
+### Мікроформати і все таке…
 - [Getting started with schema.org](http://schema.org/docs/gs.html)
 - [Структура документа : Тег &lt;html&gt;](http://www.spravkaweb.ru/html/structure/html)
 - [Состояния и свойства объектов — ARIA-атрибуты](http://html5ru.com/sostoyaniya-i-svojstva-obektov-aria-atributy.html)
