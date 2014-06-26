@@ -1,4 +1,4 @@
-rexsoft-frontend
+REXSOFT-FRONTEND
 ================
 
 Some useful frontend links
